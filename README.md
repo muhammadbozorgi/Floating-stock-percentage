@@ -1,1 +1,2 @@
-# Floating-stock-percentage
+در ویدیوی زیر توضیحات مربوط به این بخش را قرار دادم
+https://youtu.be/v9wXnjj9ZaY
